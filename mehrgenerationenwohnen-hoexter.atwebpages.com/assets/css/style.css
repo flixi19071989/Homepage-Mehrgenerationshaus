@@ -717,9 +717,11 @@ section {
   font-size: 36px;
   line-height: 1;
   color: #ffb727;
+  text-align: center;
 }
 
 .services .title {
+  text-align: center;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
@@ -734,6 +736,7 @@ section {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
+  text-align: justify;
 }
 
 .services .icon-box:hover {
