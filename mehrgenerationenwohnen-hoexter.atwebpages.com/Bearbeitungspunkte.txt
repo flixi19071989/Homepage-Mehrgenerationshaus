@@ -1,7 +1,7 @@
 Verbesserungstipps:
 
-- Startseite: Neues Hintergrundbild (wird per E-Mail geschickt)
-- Startseite: Bild heller erscheinen lassen
+X- Startseite: Neues Hintergrundbild (wird per E-Mail geschickt)
+X- Startseite: Bild heller erscheinen lassen
 - Über das Projekt: Statistiken: Wohnungen, Quatratmeterzahl der Rest weg.
 X- Über das Projekt: Internetseite von Susanne eintragen: www.krekeler-boehl.de
 X- Die Idee: Ökologisch wohnen → verwendet einfügen
@@ -10,6 +10,6 @@ X- Was daraus entstand: Aktuell leben in unserem Haus 17 Personen im Alter von 1
 - Was daraus entstand: Statistiken weg
 - Strukturen: Unter Ganztägiger Workshop einmal im Jahr: Moderation statt Moderatorin
 - Strukturen: gemeinsame Aktionen
-- Strukturen: Blocktext
+X- Strukturen: Blocktext
 - Historie des Gebäudes: Die genaue Bebauungszeit des Gebäudes ist unbekannt.
 -Nach Historie: Bilder raus Felix jeder sucht ein eigenes Bild aus.
