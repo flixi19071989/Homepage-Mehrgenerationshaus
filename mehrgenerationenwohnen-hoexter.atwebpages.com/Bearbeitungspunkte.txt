@@ -13,3 +13,6 @@ X- Strukturen: gemeinsame Aktionen
 X- Strukturen: Blocktext
 X- Historie des Gebäudes: Die genaue Bebauungszeit des Gebäudes ist unbekannt.
 X-Nach Historie: Bilder raus Felix jeder sucht ein eigenes Bild aus.
+
+- Strukturen: linksbündig
+- Link zu Krekler umlegen auf: https://www.krekeler-boehl.de/generationen-leben.html 
