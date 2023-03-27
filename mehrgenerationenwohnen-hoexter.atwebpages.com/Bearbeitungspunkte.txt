@@ -12,4 +12,4 @@ X- Strukturen: Unter Ganztägiger Workshop einmal im Jahr: Moderation statt Mode
 X- Strukturen: gemeinsame Aktionen
 X- Strukturen: Blocktext
 X- Historie des Gebäudes: Die genaue Bebauungszeit des Gebäudes ist unbekannt.
--Nach Historie: Bilder raus Felix jeder sucht ein eigenes Bild aus.
+X-Nach Historie: Bilder raus Felix jeder sucht ein eigenes Bild aus.
