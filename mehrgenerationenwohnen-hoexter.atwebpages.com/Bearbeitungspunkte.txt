@@ -16,3 +16,4 @@ X-Nach Historie: Bilder raus Felix jeder sucht ein eigenes Bild aus.
 
 - Strukturen: linksbündig
 - Link zu Krekler umlegen auf: https://www.krekeler-boehl.de/generationen-leben.html 
+- Startbild ändern
