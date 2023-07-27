@@ -18,3 +18,6 @@ X- Strukturen: linksbündig
 X- Link zu Krekler umlegen auf: https://www.krekeler-boehl.de/generationen-leben.html 
 X- Startbild ändern
 X - Kitateil ändern unter Strukturen
+
+- Bilder der Personen hinzufügen
+- Statements der Personen hinzufügen
